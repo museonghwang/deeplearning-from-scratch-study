@@ -23,9 +23,7 @@
 ### Chapter4 신경망학습
 
 * [신경망 학습](https://wooded-heath-663.notion.site/6fbf579035cf4f90b6ae012882114113)
-
 * [수치미분과 경사하강법](https://wooded-heath-663.notion.site/883244c5978042e8948bba3ab0c3211a)
-
 * [경사하강법 학습 알고리즘 구현하기](https://wooded-heath-663.notion.site/8b5a0bf67537498fb4ce631c65156f27)
 
 
